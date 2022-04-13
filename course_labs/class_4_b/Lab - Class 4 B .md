@@ -22,8 +22,8 @@ Use the [curl](https://curl.haxx.se/) CLI tool to make an HTTP POST method req
 1. Enable Cloud Storage API
 [`https://console.cloud.google.com/apis/library/storage-api.googleapis.com`](https://console.cloud.google.com/apis/library/storage-api.googleapis.com)
 2. Create a json file with metadata
-
-in GCP console, Open a terminal (there is a symbol in the upper-right side of the screen) 
+ 
+  in GCP console, Open a terminal (there is a symbol in the upper-right side of the screen) 
 
 ```bash
 nano values.json
